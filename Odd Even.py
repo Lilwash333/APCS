@@ -1,3 +1,4 @@
+#Julius Washington
 print("Let's multiple of 4, even, or odd?\n")
 ans = int(input("Gimme a number:\n"))
 if(ans % 4 == 0):
