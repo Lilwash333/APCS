@@ -1,3 +1,4 @@
+#Julius Washington
 #This is the current year
 year = 2017
 #Take in name and age in two separate variables (one str one int)
